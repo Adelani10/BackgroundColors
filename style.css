@@ -10,20 +10,19 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin: 4px;
 }
 h1{
-    color: lightgrey;
+    color: cadetblue;
     font-size: 20px;
 }
 button{
     background-color: #fff;
-    border: 1px solid #000;
-    color: #000;
-    width: 20%;
-    padding: 10px;
+    border: 2px solid cadetblue;
+    color: cadetblue;
+    width: 250px;
+    padding: 15px;
     border-radius: 20px;
-    margin: 4px;
+    margin-top: 10px;
 }
 ul{
     display: flex;
